@@ -10,7 +10,6 @@ A bash script for fetching comprehensive data from the Microsoft Graph API. This
 - Fetch detailed information about users, groups, and applications.
 - Handle pagination automatically using `@odata.nextLink`.
 - Save results to separate JSON files.
-- ASCII art and disclaimer for educational purposes.
 
 ## Disclaimer
 
